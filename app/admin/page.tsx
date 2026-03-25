@@ -53,7 +53,7 @@ export default function AdminPage() {
         * { box-sizing: border-box; margin: 0; padding: 0; }
 
         body {
-          background: #F5F0E8;
+          background: #ffffff;
           color: #1a1a1a;
           font-family: 'DM Sans', sans-serif;
           min-height: 100vh;
